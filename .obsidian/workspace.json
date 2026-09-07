@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9445a847702a6a45",
+        "id": "74061110dbcb79b2",
         "type": "tabs",
         "children": [
           {
-            "id": "b9f98ac08a25243e",
+            "id": "907e741e7dbd7f1a",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "無題のファイル 1.base",
-                "viewName": "表"
+                "file": "ようこそ.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "無題のファイル 1"
+              "icon": "lucide-file",
+              "title": "ようこそ"
             }
           }
         ]
@@ -198,13 +199,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9f98ac08a25243e",
+  "active": "907e741e7dbd7f1a",
   "lastOpenFiles": [
+    "さいきん.md",
+    "Java本格入門-～モダンスタイルによる基礎からオブジェクト指向・実用ライブラリまで_00.pdf",
+    "ようこそ.md",
     "無題のファイル.base",
     "無題のファイル 1.base",
-    "さいきん.md",
-    "ようこそ.md",
-    "Java学習メモテンプレート.md",
-    "Java本格入門-～モダンスタイルによる基礎からオブジェクト指向・実用ライブラリまで_00.pdf"
+    "今日やったこと/2026-09-07.md",
+    "今日やったこと",
+    "Java学習メモテンプレート.md"
   ]
 }
