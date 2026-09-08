@@ -8,6 +8,15 @@
       "key": "I"
     }
   ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
   "obsidian-git:stage-current-file": [
     {
       "modifiers": [
@@ -17,22 +26,13 @@
       "key": "S"
     }
   ],
-  "obsidian-git:commit-staged": [
+  "obsidian-git:commit": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
       "key": "C"
-    }
-  ],
-  "obsidian-git:push2": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "P"
     }
   ]
 }

@@ -11,14 +11,14 @@
             "id": "907e741e7dbd7f1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "ようこそ.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "ようこそ"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -201,13 +201,20 @@
   },
   "active": "907e741e7dbd7f1a",
   "lastOpenFiles": [
-    "さいきん.md",
+    "メインフォルダ/ちょっとした気づき/2026-09-08_俯瞰の効用.md",
+    "メインフォルダ/知識のまとめ/2026-09-08_claude-filesystem-setup.md",
+    "メインフォルダ/ちょっとした気づき",
+    "メインフォルダ/今日やったこと/2026-09-08_java-study.md",
+    "メインフォルダ/知識のまとめ",
+    "メインフォルダ",
+    "メインフォルダ/今日やったこと/2026-09-07.md",
+    "2026-09-08.md",
     "Java本格入門-～モダンスタイルによる基礎からオブジェクト指向・実用ライブラリまで_00.pdf",
     "ようこそ.md",
+    "さいきん.md",
     "無題のファイル.base",
     "無題のファイル 1.base",
-    "今日やったこと/2026-09-07.md",
-    "今日やったこと",
+    "メインフォルダ/今日やったこと",
     "Java学習メモテンプレート.md"
   ]
 }
