@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "74061110dbcb79b2",
+        "id": "b0726b83f32d53d0",
         "type": "tabs",
         "children": [
           {
-            "id": "907e741e7dbd7f1a",
+            "id": "bc2241270ad61e9e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "メインフォルダ/今日やったこと/2026-09-22_tab-focus-wcag.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "2026-09-22_tab-focus-wcag"
             }
           }
         ]
@@ -199,8 +199,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "907e741e7dbd7f1a",
+  "active": "bc2241270ad61e9e",
   "lastOpenFiles": [
+    "メインフォルダ/今日やったこと/2026-09-16_tab-focus-bug.md",
+    "メインフォルダ/今日やったこと/2026-09-22_tab-focus-wcag.md",
+    "メインフォルダ/今日やったこと 1/2026-09-16_tab-focus-bug.md",
+    "メインフォルダ/今日やったこと 1/2026-09-08_java-study.md",
+    "メインフォルダ/今日やったこと 1/2026-09-07.md",
+    "メインフォルダ/今日やったこと 1",
     "メインフォルダ/ちょっとした気づき/2026-09-08_俯瞰の効用.md",
     "メインフォルダ/知識のまとめ/2026-09-08_claude-filesystem-setup.md",
     "メインフォルダ/ちょっとした気づき",
